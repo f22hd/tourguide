@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string-array name="tabs">
+        <item>Resturants</item>
+        <item>Cafe</item>
+        <item>Staduim</item>
+        <item>Historical</item>
+    </string-array>
+
+    <string name="navigation">Navigation</string>
+    <string name="resturantpic">Resturant Picture</string>
+
+    <string name="res_bevez_name">Bevez Resturant</string>
+    <string name="res_bevez_desctiption">Bevez Resturant</string>
+    <string name="res_bevez_rating">4.2</string>
+    <string name="title_activity_place_details">PlaceDetailsActivity</string>
+
+    <!-- resturants -->
+    <string-array name="resturant_sultan">
+        <item>Sultan Steakhouse Riyadh</item>
+        <item>4.6</item>
+        <item>Stuff are professional and very nice.A special Turkish taste,
+            outdoor seats available in one of the best locations in Riyadh.
+        </item>
+    </string-array>
+
+    <string-array name="resturant_indian">
+        <item>Indian Summer</item>
+        <item>4.0</item>
+        <item>
+            We were craving for Indian food while we were in Riyadh. Our friend took us to this restaurant.
+            We sat in a closed family booth as this is Riyadh
+        </item>
+    </string-array>
+
+    <string-array name="resturant_Kampai">
+        <item>Kampai</item>
+        <item>2.8</item>
+        <item>
+            Some of my friends told me that Kampai is one of the best places to eat sushi at.
+            I actually felt that it is quite overrated.
+            The sushi was fresh and good, however, I did not find anything special either about the taste
+        </item>
+    </string-array>
+    <string-array name="resturant_hamza">
+        <item>Amo Hamza</item>
+        <item>3.0</item>
+        <item>
+            I visited their King Abdul Aziz Riyadh branch for take away.
+            The Fried Kanad was good and I also ordered some shrimps.
+            Lately I visited the Khurais Road Riyadh branch,
+            place is good but at time too much crowded.
+        </item>
+    </string-array>
+    <!-- end resturants -->
+
+    <!-- start Cafes -->
+    <string-array name="cafe_bateel">
+        <item>Cafe Bateel</item>
+        <item>3.5</item>
+        <item>Assertively deliver extensible quality vectors through holistic processes. Intrinsicly parallel task integrated relationships vis-a-vis principle-centered metrics. Dynamically reinvent multifunctional networks and process-centric "outside the box" thinking. Synergistically transition resource sucking schemas rather than resource maximizing synergy. Interactively communicate cross-media technology via process-centric content.
+
+Professionally predominate interoperable infrastructures via robust testing procedures. Uniquely provide access to virtual leadership skills and distributed paradigms. Compellingly network ubiquitous infomediaries rather than ubiquitous ROI. Appropriately whiteboard cross-unit action items with ubiquitous infomediaries. Progressively cultivate B2B convergence for innovative solutions.
+
+Intrinsicly provide.</item>
+    </string-array>
+    <string-array name="cafe_art">
+        <item>Art Cafe</item>
+        <item>3.8</item>
+        <item>Assertively deliver extensible quality vectors through holistic processes. Intrinsicly parallel task integrated relationships vis-a-vis principle-centered metrics. Dynamically reinvent multifunctional networks and process-centric "outside the box" thinking. Synergistically transition resource sucking schemas rather than resource maximizing synergy. Interactively communicate cross-media technology via process-centric content.
+
+Professionally predominate interoperable infrastructures via robust testing procedures. Uniquely provide access to virtual leadership skills and distributed paradigms. Compellingly network ubiquitous infomediaries rather than ubiquitous ROI. Appropriately whiteboard cross-unit action items with ubiquitous infomediaries. Progressively cultivate B2B convergence for innovative solutions.
+
+Intrinsicly provide.</item>
+    </string-array>
+    <string-array name="cafe_notro">
+        <item>Le Notre</item>
+        <item>4.0</item>
+        <item>Assertively deliver extensible quality vectors through holistic processes. Intrinsicly parallel task integrated relationships vis-a-vis principle-centered metrics. Dynamically reinvent multifunctional networks and process-centric "outside the box" thinking. Synergistically transition resource sucking schemas rather than resource maximizing synergy. Interactively communicate cross-media technology via process-centric content.
+
+Professionally predominate interoperable infrastructures via robust testing procedures. Uniquely provide access to virtual leadership skills and distributed paradigms. Compellingly network ubiquitous infomediaries rather than ubiquitous ROI. Appropriately whiteboard cross-unit action items with ubiquitous infomediaries. Progressively cultivate B2B convergence for innovative solutions.
+
+Intrinsicly provide.</item>
+    </string-array>
+    <string-array name="cafe_capio">
+        <item>Capio Diem</item>
+        <item>3.7</item>
+        <item>Assertively deliver extensible quality vectors through holistic processes. Intrinsicly parallel task integrated relationships vis-a-vis principle-centered metrics. Dynamically reinvent multifunctional networks and process-centric "outside the box" thinking. Synergistically transition resource sucking schemas rather than resource maximizing synergy. Interactively communicate cross-media technology via process-centric content.
+
+Professionally predominate interoperable infrastructures via robust testing procedures. Uniquely provide access to virtual leadership skills and distributed paradigms. Compellingly network ubiquitous infomediaries rather than ubiquitous ROI. Appropriately whiteboard cross-unit action items with ubiquitous infomediaries. Progressively cultivate B2B convergence for innovative solutions.
+
+Intrinsicly provide.</item>
+    </string-array>
+    <!-- End Cafes -->
+
+
+    <!-- start Stadium -->
+
+    <string-array name="staduim_king_fahd">
+        <item>King Fahd International Stadium</item>
+        <item>3.7</item>
+        <item>The stadium was built in 1987, being among the first ones to be covered with membrane. More importantly, it instantly became the venue with World’s largest roof. Its surface of 47,000 sqm allowed King Fahd’s stadium to retain the status for almost two decades. The cover is supported by 24 tall pylons and due to dynamic shape resembles a Bedouin tent.</item>
+    </string-array>
+
+
+    <string-array name="staduim_king_abdullah">
+        <item>Al-Jawhara Stadium</item>
+        <item>4.7</item>
+        <item>Erection of Jeddah’s new sports centre was announced in a king’s decree in 2009, suggesting the city will again celebrate sport’s role in society. Initial plans envisaged a main stadium for 100,000 people and numerous other buildings spread over 900 hectares. In 2011 the plan was severely downscaled. The surface was reduced to 300 hectares, stadium capacity to 60,000, while secondary amenities limited to an athletic stadium, 2,000-capacity indoor arena, training pitches and a mosque.</item>
+    </string-array>
+
+    <string-array name="staduim_prince_faisal">
+        <item>Prince Abdullah Al-Faisal Stadium</item>
+        <item>2.7</item>
+        <item>The stadium was built between Jeddah’s university and industrial district in 1970. It’s part of a larger sports complex along with and indoor hall and a natatorium. For almost three decades the only stand equipped in individual seats was the main one that also provides partial cover for fans. The remaining sections forming a “C” shape had terracing until 2009. Along with conversion into all-seater mode its capacity decreased from 23,000 to 20,000.</item>
+    </string-array>
+
+    <string-array name="staduim_ksu">
+        <item>King Saud University Stadium</item>
+        <item>3.0</item>
+        <item>Construction work on the campus of King Saud University in western Riyadh were launched in the spring of 2011 and expected to end within 24 months. However, despite the stadium being structurally ready in 2014, opening only took place in May of 2015.</item>
+    </string-array>
+
+
+    <!-- end Stadium -->
+
+
+    <!-- start Historical -->
+
+    <string-array name="his_1">
+        <item>The Big Farm</item>
+        <item>4.0</item>
+        <item>In the midst of rolling golden sands an oasis emerged with gardens of date palms.  Riyadh, a name derived from the Arabic plural form of rowdah (gardens) was not always the capital, as previously the 500 year old walled city of Ad-Diriyah was the seat of the Al Saud tribe</item>
+    </string-array>
+
+    <string-array name="his_2">
+        <item>Aldareyah</item>
+        <item>3.8</item>
+        <item> Riyadh's roots and time-honored history continue to make their presence felt – here is a place where ancient mosques and contemporary malls exist side by side</item>
+    </string-array>
+
+
+    <string-array name="his_3">
+        <item>The National Museum</item>
+        <item>4.2</item>
+        <item>is another wonderful place for people to visit, containing eight sections that cover topics such as man and the universe, Arabian Kingdoms, Prophet Mohammed’s Mission, Islam and the Arabian Peninsula</item>
+    </string-array>
+
+    <string-array name="his_4">
+        <item>Historic Buildings</item>
+        <item>4.5</item>
+        <item>In the midst of rolling golden sands an oasis emerged with gardens of date palms.  Riyadh, a name derived from the Arabic plural form of rowdah (gardens) was not always the capital, as previously the 500 year old walled city of Ad-Diriyah was the seat of the Al Saud tribe</item>
+    </string-array>
+
+
+    <!-- end Historical -->
+
+</resources>
